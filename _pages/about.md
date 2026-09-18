@@ -20,7 +20,7 @@ announcements:
 I am an undergraduate student at the Southern University of Science and
 Technology (SUSTech).
 
-I am currently exploring reinforcement learning, AI agents, and AI infrastructure, and trying to find the research directions that genuinely interest me.
+I am currently exploring **reinforcement learning, AI agents, and AI infrastructure**, and trying to find the research directions that genuinely interest me.
 
 ## Awards
 
