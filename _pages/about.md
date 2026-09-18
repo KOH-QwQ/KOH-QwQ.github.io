@@ -17,6 +17,8 @@ announcements:
   enabled: false
 ---
 
+**Email:** [12310724@mail.sustech.edu.cn](12310724@mail.sustech.edu.cn)
+
 I am an undergraduate student at the Southern University of Science and
 Technology (SUSTech).
 
